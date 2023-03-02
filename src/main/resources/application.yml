@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://192.168.56.201:3306/adb
+    username: johny
+    password: 1
+    driverClassName: org.mariadb.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+simple:
+  mind:
+    dbplayer: mariadb
