@@ -7,11 +7,11 @@
         <version>3.0.1</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.alibou</groupId>
-    <artifactId>security</artifactId>
+    <groupId>simple.mind</groupId>
+    <artifactId>jwtdemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>security</name>
-    <description>Demo project for Spring Boot</description>
+    <description>This is a demo project. Objective is to configure jwt</description>
     <properties>
         <java.version>17</java.version>
     </properties>
